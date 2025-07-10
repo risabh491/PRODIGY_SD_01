@@ -9,9 +9,11 @@ Convert between Celsius, Fahrenheit, and Kelvin
 Real-time two-way conversion
 Modern, user-friendly interface
 Light and Dark mode support
+
 Technologies Used
 Python 3.x
 customtkinter (a modern framework based on tkinter)
+
 How to Run
 Install Python from https://www.python.org if you haven't already.
 Install customtkinter: pip install customtkinter
